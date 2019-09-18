@@ -1,9 +1,6 @@
 来自lean大的openwrt备份加自定义小米路由器的配置文件
  source code ：https://github.com/coolsnowwolf/lede 
  直接编译效果：https://www.right.com.cn/forum/thread-997212-1-1.html
-
-
-
-
+采用新主题请手动添加https://github.com/jerrykuku/luci-theme-argon
 
 
